@@ -1,4 +1,10 @@
 ﻿var developer = "Desarrollador Desesperado";
-//cambios muchoas
+
 Console.WriteLine("Hello, " + developer);
 Console.WriteLine($"Hello, {developer}");
+
+
+Console.WriteLine("Nombre:");
+string name = Console.ReadLine() ?? "PorDefecto";
+
+Console.WriteLine("Nombre:" + name);
