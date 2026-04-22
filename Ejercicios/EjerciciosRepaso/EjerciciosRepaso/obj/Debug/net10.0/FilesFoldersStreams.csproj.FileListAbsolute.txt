@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\net10.0\FilesFoldersStreams.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\net10.0\FilesFoldersStreams.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\net10.0\FilesFoldersStreams.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\net10.0\FilesFoldersStreams.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\net10.0\FilesFoldersStreams.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\refint\FilesFoldersStreams.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\FilesFoldersStreams.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\net10.0\ref\FilesFoldersStreams.dll

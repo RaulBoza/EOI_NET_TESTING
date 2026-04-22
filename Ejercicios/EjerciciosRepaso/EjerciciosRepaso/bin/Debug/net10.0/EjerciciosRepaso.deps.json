@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EjerciciosRepaso/1.0.0": {
+        "runtime": {
+          "EjerciciosRepaso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjerciciosRepaso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

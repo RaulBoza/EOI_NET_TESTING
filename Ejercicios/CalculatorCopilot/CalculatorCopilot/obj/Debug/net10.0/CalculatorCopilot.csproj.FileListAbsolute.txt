@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\bin\Debug\net10.0\CalculatorCopilot.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\bin\Debug\net10.0\CalculatorCopilot.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\bin\Debug\net10.0\CalculatorCopilot.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\bin\Debug\net10.0\CalculatorCopilot.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\bin\Debug\net10.0\CalculatorCopilot.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\refint\CalculatorCopilot.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\CalculatorCopilot.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\Ejercicios\CalculatorCopilot\CalculatorCopilot\obj\Debug\net10.0\ref\CalculatorCopilot.dll
