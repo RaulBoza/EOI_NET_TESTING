@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ExercicesJSON/ExercicesJSON.csproj" />
+  <Project Path="FilesFoldersStreams.csproj" />
+</Solution>
