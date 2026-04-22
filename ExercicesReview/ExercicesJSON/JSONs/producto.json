@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Keyboard Gaming Amazing",
+    "Price": 59.99,
+    "Stock": 164,
+    "IsAvailable": true
+  },
+  {
+    "Name": "Mouse RGB Ultra Neon",
+    "Price": 39.99,
+    "Stock": 41,
+    "IsAvailable": true
+  },
+  {
+    "Name": "Headset Xokas Edition",
+    "Price": 279.99,
+    "Stock": 0,
+    "IsAvailable": false
+  }
+]
