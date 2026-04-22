@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11716.220 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicesJSON", "ExercicesJSON.csproj", "{FD06AC8E-C532-2307-1D4D-A850673A0C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD06AC8E-C532-2307-1D4D-A850673A0C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD06AC8E-C532-2307-1D4D-A850673A0C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD06AC8E-C532-2307-1D4D-A850673A0C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD06AC8E-C532-2307-1D4D-A850673A0C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E97893-8AE4-4348-BBC3-6A810B5AAC40}
+	EndGlobalSection
+EndGlobal

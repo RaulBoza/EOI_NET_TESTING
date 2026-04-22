@@ -1,4 +1,5 @@
-﻿const string ROOT_RUTE = "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\ExercicesJSON\\JSONs\\";
-Directory.SetCurrentDirectory(ROOT_RUTE);
+﻿using System.Text.Json;
 
+const string ROOT_RUTE = "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\ExercicesJSON\\JSONs\\";
+Directory.SetCurrentDirectory(ROOT_RUTE);
 

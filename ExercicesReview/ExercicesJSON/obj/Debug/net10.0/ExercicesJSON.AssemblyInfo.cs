@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicesJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ff703ea18f6f82ebe909f66a2d6ba9d811421f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb6792e28dd6f129a603c3d2ff95febd7b1eb25b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicesJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicesJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
