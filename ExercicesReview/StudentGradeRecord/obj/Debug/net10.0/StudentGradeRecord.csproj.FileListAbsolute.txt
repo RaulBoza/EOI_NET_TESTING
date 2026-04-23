@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\bin\Debug\net10.0\StudentGradeRecord.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\bin\Debug\net10.0\StudentGradeRecord.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\bin\Debug\net10.0\StudentGradeRecord.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\bin\Debug\net10.0\StudentGradeRecord.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\bin\Debug\net10.0\StudentGradeRecord.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\refint\StudentGradeRecord.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\StudentGradeRecord.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\StudentGradeRecord\obj\Debug\net10.0\ref\StudentGradeRecord.dll

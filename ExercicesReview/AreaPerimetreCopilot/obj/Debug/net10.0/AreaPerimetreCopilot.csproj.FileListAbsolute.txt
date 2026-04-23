@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\bin\Debug\net10.0\AreaPerimetreCopilot.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\bin\Debug\net10.0\AreaPerimetreCopilot.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\bin\Debug\net10.0\AreaPerimetreCopilot.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\bin\Debug\net10.0\AreaPerimetreCopilot.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\bin\Debug\net10.0\AreaPerimetreCopilot.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\refint\AreaPerimetreCopilot.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\AreaPerimetreCopilot.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\AreaPerimetreCopilot\obj\Debug\net10.0\ref\AreaPerimetreCopilot.dll
