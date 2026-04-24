@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Manuel",
+    "Surname": "Martinez",
+    "Grades": {
+      "Subject": 8.5,
+      "Subject": 9,
+      "Subject": 7.8,
+      "Subject": 7.8
+    }
+  },
+  {
+    "Name": "Miguel",
+    "Surname": "Guerrero",
+    "Grades": {
+      "Subject": 6.5,
+      "Subject": 7,
+      "Subject": 5,
+      "Subject": 4.5
+    }
+  },
+  {
+    "Name": "Covadonga",
+    "Surname": "Garc\u00EDa",
+    "Grades": {
+      "Subject": 8.5,
+      "Subject": 7,
+      "Subject": 6.5,
+      "Subject": 7.5
+    }
+  }
+]
