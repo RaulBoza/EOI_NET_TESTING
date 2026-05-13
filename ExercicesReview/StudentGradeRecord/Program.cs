@@ -358,7 +358,7 @@ public class StudentGrade
     public Dictionary<Subject,float> Grades { get; set; }
 }
 
-[JsonConverter(typeof(SubjectyJsonConverter))]
+[JsonConverter(typeof(SubjectJsonConverter))]
 public class Subject : TypeConverter
 {
     public static Subject Parse(string name)
@@ -372,7 +372,7 @@ public class Subject : TypeConverter
     public string Name { get; set; }
 }
 
-class SubjectyJsonConverter : JsonConverter<Subject>
+class SubjectJsonConverter : JsonConverter<Subject>
 {
     public override Subject? Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options)
         => Subject.Parse(reader.GetString());

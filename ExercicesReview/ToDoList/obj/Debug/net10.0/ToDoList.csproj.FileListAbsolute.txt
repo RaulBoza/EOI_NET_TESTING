@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\bin\Debug\net10.0\ToDoList.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\bin\Debug\net10.0\ToDoList.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\bin\Debug\net10.0\ToDoList.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\bin\Debug\net10.0\ToDoList.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\bin\Debug\net10.0\ToDoList.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\refint\ToDoList.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ToDoList.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\ToDoList\obj\Debug\net10.0\ref\ToDoList.dll

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\UserInterface.cs",
+              "RelativeToolTip": "UserInterface.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:31:23.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\Logic.cs",
+              "RelativeDocumentMoniker": "Logic.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\Logic.cs",
+              "RelativeToolTip": "Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:59:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T07:29:58.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

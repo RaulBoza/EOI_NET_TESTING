@@ -1,0 +1,11 @@
+[
+  {
+    "Product Name": "Apple",
+    "productPrice": 0.99,
+    "addingDate": {
+      "day": 1,
+      "month": 1,
+      "year": 2024
+    }
+  }
+]

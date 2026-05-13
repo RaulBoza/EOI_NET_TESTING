@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\bin\Debug\net10.0\JsonProducts.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\bin\Debug\net10.0\JsonProducts.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\bin\Debug\net10.0\JsonProducts.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\bin\Debug\net10.0\JsonProducts.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\bin\Debug\net10.0\JsonProducts.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\refint\JsonProducts.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\JsonProducts.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\JsonProducts\obj\Debug\net10.0\ref\JsonProducts.dll

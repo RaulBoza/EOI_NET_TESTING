@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Calculator\obj\Debug\net10.0\ref\Calculator.dll
