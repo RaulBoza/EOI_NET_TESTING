@@ -1,0 +1,4 @@
+﻿# Copilot Instructions
+
+## Directrices del proyecto
+- Solo crear/editar archivos web (cshtml, css, PageModels, archivos estáticos) dentro del proyecto 'GestorPrestacionesWeb'; no crear ni modificar archivos o carpetas en el proyecto 'GestorPrestaciones' salvo instrucción explícita del usuario.

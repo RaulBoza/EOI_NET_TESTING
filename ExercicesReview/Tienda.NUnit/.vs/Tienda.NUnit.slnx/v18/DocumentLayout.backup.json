@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ABA185-197C-4C92-B827-18218DCDEB44}|Tienda.Core.Tests\\Tienda.Core.Tests.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\tienda.nunit\\tienda.core.tests\\unitarias\\carritotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ABA185-197C-4C92-B827-18218DCDEB44}|Tienda.Core.Tests\\Tienda.Core.Tests.csproj|solutionrelative:tienda.core.tests\\unitarias\\carritotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1AF004-FFB8-4299-9431-A7D08B5413F9}|Tienda.Core\\Tienda.Core.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\tienda.nunit\\tienda.core\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1AF004-FFB8-4299-9431-A7D08B5413F9}|Tienda.Core\\Tienda.Core.csproj|solutionrelative:tienda.core\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1AF004-FFB8-4299-9431-A7D08B5413F9}|Tienda.Core\\Tienda.Core.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\tienda.nunit\\tienda.core\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1AF004-FFB8-4299-9431-A7D08B5413F9}|Tienda.Core\\Tienda.Core.csproj|solutionrelative:tienda.core\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1AF004-FFB8-4299-9431-A7D08B5413F9}|Tienda.Core\\Tienda.Core.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\tienda.nunit\\tienda.core\\calculadoradescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1AF004-FFB8-4299-9431-A7D08B5413F9}|Tienda.Core\\Tienda.Core.csproj|solutionrelative:tienda.core\\calculadoradescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ABA185-197C-4C92-B827-18218DCDEB44}|Tienda.Core.Tests\\Tienda.Core.Tests.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\tienda.nunit\\tienda.core.tests\\unitarias\\calculadoradescuentostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ABA185-197C-4C92-B827-18218DCDEB44}|Tienda.Core.Tests\\Tienda.Core.Tests.csproj|solutionrelative:tienda.core.tests\\unitarias\\calculadoradescuentostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ABA185-197C-4C92-B827-18218DCDEB44}|Tienda.Core.Tests\\Tienda.Core.Tests.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\tienda.nunit\\tienda.core.tests\\tienda.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8ABA185-197C-4C92-B827-18218DCDEB44}|Tienda.Core.Tests\\Tienda.Core.Tests.csproj|solutionrelative:tienda.core.tests\\tienda.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarritoTest.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core.Tests\\Unitarias\\CarritoTest.cs",
+              "RelativeDocumentMoniker": "Tienda.Core.Tests\\Unitarias\\CarritoTest.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core.Tests\\Unitarias\\CarritoTest.cs",
+              "RelativeToolTip": "Tienda.Core.Tests\\Unitarias\\CarritoTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:52:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core\\Carrito.cs",
+              "RelativeDocumentMoniker": "Tienda.Core\\Carrito.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core\\Carrito.cs",
+              "RelativeToolTip": "Tienda.Core\\Carrito.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:51:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core\\Producto.cs",
+              "RelativeDocumentMoniker": "Tienda.Core\\Producto.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core\\Producto.cs",
+              "RelativeToolTip": "Tienda.Core\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:51:40.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tienda.Core.Tests",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core.Tests\\Tienda.Core.Tests.csproj",
+              "RelativeDocumentMoniker": "Tienda.Core.Tests\\Tienda.Core.Tests.csproj",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core.Tests\\Tienda.Core.Tests.csproj",
+              "RelativeToolTip": "Tienda.Core.Tests\\Tienda.Core.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T06:59:27.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraDescuentosTests.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core.Tests\\Unitarias\\CalculadoraDescuentosTests.cs",
+              "RelativeDocumentMoniker": "Tienda.Core.Tests\\Unitarias\\CalculadoraDescuentosTests.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core.Tests\\Unitarias\\CalculadoraDescuentosTests.cs",
+              "RelativeToolTip": "Tienda.Core.Tests\\Unitarias\\CalculadoraDescuentosTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T06:53:03.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraDescuentos.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core\\CalculadoraDescuentos.cs",
+              "RelativeDocumentMoniker": "Tienda.Core\\CalculadoraDescuentos.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Tienda.NUnit\\Tienda.Core\\CalculadoraDescuentos.cs",
+              "RelativeToolTip": "Tienda.Core\\CalculadoraDescuentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T06:44:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:519925012:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:324660892:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

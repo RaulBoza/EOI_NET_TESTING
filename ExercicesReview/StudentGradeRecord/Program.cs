@@ -342,7 +342,7 @@ void WriteJSON()
 {
     string? json = null;
     json = JsonSerializer.Serialize(students, new JsonSerializerOptions{ WriteIndented = true });
-    File.WriteAllText("products.json", json);
+    File.WriteAllText("students.json", json);
 }
 public class StudentGrade
 {
@@ -353,8 +353,13 @@ public class StudentGrade
         Grades = grades;
     }
 
+    [JsonPropertyName("Student Name")]
     public string Name { get; set; }
+
+    [JsonPropertyName("Student Surname")]
     public string Surname { get; set; }
+
+    [JsonPropertyName("Student Grades")]
     public Dictionary<Subject,float> Grades { get; set; }
 }
 
@@ -369,6 +374,8 @@ public class Subject : TypeConverter
     {
         Name = name;
     }
+
+    [JsonPropertyName("Subject Name")]
     public string Name { get; set; }
 }
 

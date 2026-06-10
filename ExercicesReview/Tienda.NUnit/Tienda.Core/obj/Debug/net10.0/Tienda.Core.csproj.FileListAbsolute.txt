@@ -1,0 +1,13 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\bin\Debug\net10.0\Tienda.Core.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\bin\Debug\net10.0\Tienda.Core.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\bin\Debug\net10.0\Tienda.Core.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.csproj.AssemblyReference.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\refint\Tienda.Core.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\Tienda.Core.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\Tienda.NUnit\Tienda.Core\obj\Debug\net10.0\ref\Tienda.Core.dll

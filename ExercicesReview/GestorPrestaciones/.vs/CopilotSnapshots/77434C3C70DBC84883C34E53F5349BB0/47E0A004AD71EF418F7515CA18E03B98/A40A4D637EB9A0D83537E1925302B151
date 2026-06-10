@@ -1,0 +1,53 @@
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Data.Common;
+using System.IO;
+using System.Reflection;
+using System.Text;
+
+namespace GestorPrestaciones
+{
+    public class GestorContext:DbContext
+    {
+
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Trabajo> Trabajos { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            Console.WriteLine(@"Data Source=" + Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\gestorprestaciones.db");
+            optionsBuilder.UseSqlite(@"Data Source="+ Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\gestorprestaciones.db");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Cliente>().HasData(
+                new Cliente
+                {
+                    Id = 1,
+                    Nombre = "Juan",
+                    Apellidos = "Pérez",
+                    FechaNacimiento = new DateOnly(1980, 5, 15),
+                    DNI = "12345678A",
+                    Genero = "Masculino"
+                },
+                new Cliente
+                {
+                    Id = 2,
+                    Nombre = "María",
+                    Apellidos = "García",
+                    FechaNacimiento = new DateOnly(1990, 8, 20),
+                    DNI = "87654321B",
+                    Genero = "Femenino"
+                }
+            );
+
+            modelBuilder.Entity<Trabajo>().HasData( 
+                new Trabajo { Id = 1, Nombre = "Minero", Descripcion = "Trabajo en minas subterráneas", EsDeRiesgo = true },
+                new Trabajo { Id = 2, Nombre = "Cajero", Descripcion = "Trabajo en caja de supermercado", EsDeRiesgo = false }
+            );
+        }
+
+    }
+}

@@ -1,0 +1,38 @@
+﻿using Microsoft.Data.Sqlite;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GestorPrestaciones
+{
+    public class ServiciosCliente
+    {
+        /// <summary>
+        /// Contexto de la base de datos para acceder a los clientes (inyectado por DI).
+        /// </summary>
+        private readonly GestorContext _context;
+
+        public ServiciosCliente(GestorContext context)
+        {
+            _context = context ?? throw new ArgumentNullException(nameof(context));
+        }
+
+        //CRUD de Clientes
+
+        //CREATE
+
+        //READ
+
+        public async Task<List<Cliente>> ListaClientes()
+        {
+            List<Cliente> clientes = await _context.Clientes.ToListAsync();
+            return clientes;
+        }
+
+        //UPDATE
+
+        //DELETE
+    }
+}

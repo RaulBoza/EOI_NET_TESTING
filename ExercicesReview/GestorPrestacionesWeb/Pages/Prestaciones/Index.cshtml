@@ -1,0 +1,40 @@
+@page
+@model GestorPrestacionesWeb.Pages.Prestaciones.IndexModel
+@{
+	ViewData["Title"] = "Prestaciones - Listado";
+}
+
+<div class="py-4">
+	<h1 class="h3 mb-3 text-dark">Prestaciones</h1>
+
+	<div class="card shadow-sm">
+		<div class="card-body">
+			<h2 class="h5 mb-3">Listado de prestaciones</h2>
+
+			@if (Model.Prestaciones == null || !Model.Prestaciones.Any())
+			{
+				<div class="text-muted">No hay prestaciones.</div>
+			}
+			else
+			{
+				<div class="table-responsive">
+					<table class="table table-striped table-hover">
+						<thead class="table-light">
+							<tr>
+								<th>Tipo</th>
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (var p in Model.Prestaciones)
+							{
+								<tr>
+									<td>@p</td>
+								</tr>
+							}
+						</tbody>
+					</table>
+				</div>
+			}
+		</div>
+	</div>
+</div>

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Library.web/Library.web.csproj" Id="16d91987-41ae-4147-9004-a6c602b0fa95" />
+  <Project Path="../Library/Library.csproj" Id="0a879b6a-a39a-404c-88b7-6ec60a851ec9" />
+  <Project Path="EntityFrameworkCore.csproj" />
+</Solution>

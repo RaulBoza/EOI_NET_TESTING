@@ -1,0 +1,55 @@
+@page "{id:int}"
+@model GestorPrestacionesWeb.Pages.Clientes.DetallesClienteModel
+@{
+	ViewData["Title"] = "Detalle Cliente";
+}
+
+<div class="py-4">
+	<h1 class="h3 mb-3">Detalle Cliente</h1>
+
+	@if (Model.Cliente == null)
+	{
+		<div class="text-danger">Cliente no encontrado.</div>
+	}
+	else
+	{
+		<div class="card shadow-sm">
+			<div class="card-body">
+				<h4>@Model.Cliente.Nombre @Model.Cliente.Apellidos</h4>
+				<dl class="row">
+					<dt class="col-sm-3">Id</dt>
+					<dd class="col-sm-9">@Model.Cliente.Id</dd>
+
+					<dt class="col-sm-3">Nombre</dt>
+					<dd class="col-sm-9">@Model.Cliente.Nombre</dd>
+
+					<dt class="col-sm-3">Apellidos</dt>
+					<dd class="col-sm-9">@Model.Cliente.Apellidos</dd>
+
+					<dt class="col-sm-3">DNI</dt>
+					<dd class="col-sm-9">@Model.Cliente.DNI</dd>
+
+					<dt class="col-sm-3">Fecha Nac.</dt>
+					<dd class="col-sm-9">@Model.Cliente.FechaNacimiento.ToString("dd/MM/yyyy")</dd>
+
+					<dt class="col-sm-3">Sexo</dt>
+					<dd class="col-sm-9">@Model.Cliente.Sexo</dd>
+
+					<dt class="col-sm-3">Base Reguladora</dt>
+					<dd class="col-sm-9">@Model.Cliente.BaseReguladora</dd>
+
+					<dt class="col-sm-3">Grado Discapacidad</dt>
+					<dd class="col-sm-9">@Model.Cliente.GradoDiscapacidad</dd>
+
+					<dt class="col-sm-3">Trabajos</dt>
+					<dd class="col-sm-9">@Model.Cliente.Trabajos?.Count ?? 0</dd>
+
+					<dt class="col-sm-3">Bajas Laborales</dt>
+					<dd class="col-sm-9">@Model.Cliente.BajasLaborales?.Count ?? 0</dd>
+				</dl>
+
+				<a asp-page="Index" class="btn btn-link">Volver</a>
+			</div>
+		</div>
+	}
+</div>

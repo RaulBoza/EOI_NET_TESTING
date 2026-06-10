@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Gestor de Prestaciones - Buscar Clientes";
+}
+
+<div class="py-4">
+    <h1 class="h3 mb-3 text-dark">Buscador de Clientes</h1>
+    <div class="mb-3">
+        <a asp-page="/Clientes/Index" class="btn btn-outline-primary me-2">Clientes</a>
+        <a asp-page="/Trabajos/Index" class="btn btn-outline-primary me-2">Trabajos</a>
+        <a asp-page="/Prestaciones/Index" class="btn btn-outline-primary">Prestaciones</a>
+    </div>
+    
+</div>

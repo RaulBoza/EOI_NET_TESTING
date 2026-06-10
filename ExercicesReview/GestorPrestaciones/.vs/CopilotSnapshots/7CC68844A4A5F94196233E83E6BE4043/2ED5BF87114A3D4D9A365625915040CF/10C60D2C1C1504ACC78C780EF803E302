@@ -1,0 +1,24 @@
+﻿@page
+@model GestorPrestacionesWeb.Pages.Trabajos.CreateModel
+@{
+	ViewData["Title"] = "Crear Trabajo";
+}
+
+<div class="py-4">
+	<h1 class="h3 mb-3 text-dark">Crear Trabajo</h1>
+
+	<form method="post">
+		<div class="mb-3">
+			<label asp-for="Trabajo.Nombre" class="form-label"></label>
+			<input asp-for="Trabajo.Nombre" class="form-control" />
+			<span asp-validation-for="Trabajo.Nombre" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Trabajo.Descripcion" class="form-label"></label>
+			<input asp-for="Trabajo.Descripcion" class="form-control" />
+			<span asp-validation-for="Trabajo.Descripcion" class="text-danger"></span>
+		</div>
+		<button type="submit" class="btn btn-primary">Crear</button>
+		<a asp-page="Index" class="btn btn-link">Volver</a>
+	</form>
+</div>

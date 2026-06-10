@@ -1,0 +1,43 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Linq;
+using GestorPrestaciones;
+
+namespace GestorPrestacionesWeb
+{
+    public class IndexModel : PageModel
+    {
+        [BindProperty]
+        public string? SearchTerm { get; set; }
+
+        public List<Cliente> Clientes { get; set; } = new List<Cliente>();
+
+        public async Task OnGetAsync()
+        {
+            // Cargar todos los clientes por defecto
+            var servicio = new ServiciosCliente();
+            Clientes = await servicio.ListaClientes();
+        }
+
+        public async Task OnPostAsync()
+        {
+            var servicio = new ServiciosCliente();
+            var todos = await servicio.ListaClientes();
+
+            if (string.IsNullOrWhiteSpace(SearchTerm))
+            {
+                Clientes = todos;
+                return;
+            }
+
+            var term = SearchTerm.Trim();
+            Clientes = todos.Where(c =>
+                (!string.IsNullOrEmpty(c.Nombre) && c.Nombre.Contains(term, System.StringComparison.OrdinalIgnoreCase)) ||
+                (!string.IsNullOrEmpty(c.Apellidos) && c.Apellidos.Contains(term, System.StringComparison.OrdinalIgnoreCase)) ||
+                (!string.IsNullOrEmpty(c.DNI) && c.DNI.Contains(term, System.StringComparison.OrdinalIgnoreCase))
+            ).ToList();
+        }
+    }
+}

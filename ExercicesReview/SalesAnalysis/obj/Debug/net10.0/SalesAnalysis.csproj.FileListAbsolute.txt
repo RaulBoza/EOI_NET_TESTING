@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\bin\Debug\net10.0\SalesAnalysis.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\bin\Debug\net10.0\SalesAnalysis.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\bin\Debug\net10.0\SalesAnalysis.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\bin\Debug\net10.0\SalesAnalysis.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\bin\Debug\net10.0\SalesAnalysis.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\refint\SalesAnalysis.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\SalesAnalysis.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SalesAnalysis\obj\Debug\net10.0\ref\SalesAnalysis.dll

@@ -1,0 +1,21 @@
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using GestorPrestaciones;
+
+namespace GestorPrestacionesWeb.Pages.Clientes
+{
+    public class IndexModel : PageModel
+    {
+        private readonly ServiciosCliente _servicios;
+        public List<Cliente> Clientes { get; set; }
+
+        public IndexModel(ServiciosCliente servicios)
+        {
+            _servicios = servicios;
+        }
+
+        public async void OnGet()
+        {
+            Clientes = await _servicios.ListaClientes();
+        }
+    }
+}

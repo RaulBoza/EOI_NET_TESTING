@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F817A2FE-88E3-3460-E768-EDE46A78B465}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F817A2FE-88E3-3460-E768-EDE46A78B465}|Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F817A2FE-88E3-3460-E768-EDE46A78B465}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F817A2FE-88E3-3460-E768-EDE46A78B465}|Calculator.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{052ED618-40B3-42B0-8871-6D1E8CCE5945}|Calculator.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F817A2FE-88E3-3460-E768-EDE46A78B465}|Calculator.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\calculator\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F817A2FE-88E3-3460-E768-EDE46A78B465}|Calculator.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserInterface.cs",
               "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\UserInterface.cs",
               "RelativeDocumentMoniker": "UserInterface.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "UserInterface.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:31:23.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T07:31:23.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Logic.cs",
               "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\Calculator\\Logic.cs",
               "RelativeDocumentMoniker": "Logic.cs",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Logic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T07:59:24.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T07:59:24.075Z"
             },
             {
               "$type": "Document",

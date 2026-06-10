@@ -1,0 +1,101 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* Estilo corporativo sencillo */
+    body {
+        background: linear-gradient(180deg, #f3f6f9 0%, #e9eef3 100%);
+        font-family: "Segoe UI", Roboto, Arial, sans-serif;
+        color: #102027;
+    }
+
+    .hp-container {
+        max-width: 1300px;
+        margin: 100px;
+        padding: 28px 16px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 18px;
+        align-items: stretch;
+        justify-content: space-between;
+    }
+
+    .hp-title {
+        color: #0b2540;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+    }
+
+    .panel-card {
+        display: flex;
+        flex-direction:column;
+        align-items: left;
+        gap: 18px;
+        text-decoration: none;
+        color: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 6px 20px rgba(16,32,48,0.08);
+        height: 230px;
+        transition: transform 160ms ease, box-shadow 160ms ease;
+        flex: 1 1 300px; /* flexible horizontal panels */
+        min-width: 220px;
+    }
+
+    .panel-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 30px rgba(16,32,48,0.14);
+    }
+
+    .panel-icon {
+        width: 76px;
+        height: 76px;
+        flex: 0 0 76px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(255,255,255,0.12);
+        border-radius: 12px;
+    }
+
+    .panel-text h3 {
+        margin: 0 0 6px 0;
+        font-size: 1.25rem;
+        line-height: 1.1;
+    }
+
+    .panel-text p { margin: 0; opacity: 0.95; }
+
+    .panel-clients { background: linear-gradient(90deg,#1f6feb,#1149a6); }
+    .panel-trabajos { background: linear-gradient(90deg,#16a085,#0d6b5b); }
+    .panel-prestaciones { background: linear-gradient(90deg,#f39c12,#d35400); }
+
+    @media (max-width: 576px) {
+        .panel-card { height: 120px; padding: 18px; }
+        .panel-icon { width: 56px; height: 56px; flex:0 0 56px; }
+    }
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}

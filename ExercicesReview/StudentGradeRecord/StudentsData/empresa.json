@@ -1,0 +1,41 @@
+﻿{
+  "empresa": "TechSolutions España",
+  "fecha_creacion": "2026-05-14",
+  "activa": true,
+  "proyectos": [
+    {
+      "id": "PROY-001",
+      "nombre": "Sistema de Gestión de Archivos",
+      "estado": "En desarrollo",
+      "tecnologias": [ "C#", ".NET 8", "JSON", "SQL Server" ],
+      "presupuesto": 45000.5
+    },
+    {
+      "id": "PROY-002",
+      "nombre": "API de Pasarela de Pagos",
+      "estado": "Completado",
+      "tecnologias": [ "C#", "ASP.NET Core", "Azure" ],
+      "presupuesto": 28000.0
+    }
+  ],
+  "configuracion_sistema": {
+    "modo_depuracion": true,
+    "max_intentos_conexion": 5,
+    "rutas_almacenamiento": {
+      "temporal": "/tmp/archivos",
+      "permanente": "/var/data/ficheros"
+    }
+  },
+  "usuarios_admin": [
+    {
+      "id": 1,
+      "nombre": "Carlos Gómez",
+      "email": "carlos@techsolutions.es"
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Martínez",
+      "email": "ana@techsolutions.es"
+    }
+  ]
+} 

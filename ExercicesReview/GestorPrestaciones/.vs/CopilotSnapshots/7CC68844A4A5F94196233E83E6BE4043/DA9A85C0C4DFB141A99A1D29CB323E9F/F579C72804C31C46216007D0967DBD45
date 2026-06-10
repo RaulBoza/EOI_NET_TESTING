@@ -1,0 +1,120 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Gestor de Prestaciones - Buscar Clientes";
+}
+
+<style>
+    /* Estilo corporativo sencillo */
+    body {
+        background: linear-gradient(180deg, #f3f6f9 0%, #e9eef3 100%);
+        font-family: "Segoe UI", Roboto, Arial, sans-serif;
+        color: #102027;
+    }
+
+    .hp-container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 28px 16px;
+    }
+
+    .hp-title {
+        color: #0b2540;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+    }
+
+    .panel-card {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+        text-decoration: none;
+        color: #fff;
+        padding: 26px;
+        border-radius: 8px;
+        margin-bottom: 18px;
+        box-shadow: 0 6px 20px rgba(16,32,48,0.08);
+        height: 140px;
+        transition: transform 160ms ease, box-shadow 160ms ease;
+    }
+
+    .panel-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 12px 30px rgba(16,32,48,0.14);
+    }
+
+    .panel-icon {
+        width: 76px;
+        height: 76px;
+        flex: 0 0 76px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(255,255,255,0.12);
+        border-radius: 12px;
+    }
+
+    .panel-text h3 {
+        margin: 0 0 6px 0;
+        font-size: 1.25rem;
+        line-height: 1.1;
+    }
+
+    .panel-text p { margin: 0; opacity: 0.95; }
+
+    .panel-clients { background: linear-gradient(90deg,#1f6feb,#1149a6); }
+    .panel-trabajos { background: linear-gradient(90deg,#16a085,#0d6b5b); }
+    .panel-prestaciones { background: linear-gradient(90deg,#f39c12,#d35400); }
+
+    @media (max-width: 576px) {
+        .panel-card { height: 120px; padding: 18px; }
+        .panel-icon { width: 56px; height: 56px; flex:0 0 56px; }
+    }
+</style>
+
+<div class="hp-container">
+    <h1 class="h3 mb-3 hp-title">Gestor de Prestaciones</h1>
+
+    <a asp-page="/Clientes/Index" class="panel-card panel-clients" role="button">
+        <div class="panel-icon" aria-hidden="true">
+            <!-- Icono cliente (SVG) -->
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" width="40" height="40" stroke="white">
+                <path d="M12 12c2.761 0 5-2.239 5-5s-2.239-5-5-5-5 2.239-5 5 2.239 5 5 5z" stroke="white" stroke-width="1.2" fill="rgba(255,255,255,0.06)"/>
+                <path d="M3 21c0-3.866 3.134-7 7-7h4c3.866 0 7 3.134 7 7" stroke="white" stroke-width="1.2" fill="none"/>
+            </svg>
+        </div>
+        <div class="panel-text">
+            <h3>Clientes</h3>
+            <p>Listado y creación de clientes</p>
+        </div>
+    </a>
+
+    <a asp-page="/Trabajos/Index" class="panel-card panel-trabajos" role="button">
+        <div class="panel-icon" aria-hidden="true">
+            <!-- Icono trabajo (SVG) -->
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" width="40" height="40" stroke="white">
+                <rect x="3" y="6" width="18" height="12" rx="2" stroke="white" stroke-width="1.2" fill="rgba(255,255,255,0.06)"/>
+                <path d="M8 3v3" stroke="white" stroke-width="1.2"/>
+                <path d="M16 3v3" stroke="white" stroke-width="1.2"/>
+            </svg>
+        </div>
+        <div class="panel-text">
+            <h3>Trabajos</h3>
+            <p>Listado y creación de trabajos asociados</p>
+        </div>
+    </a>
+
+    <a asp-page="/Prestaciones/Index" class="panel-card panel-prestaciones" role="button">
+        <div class="panel-icon" aria-hidden="true">
+            <!-- Icono prestaciones (SVG) -->
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" width="40" height="40" stroke="white">
+                <circle cx="12" cy="8" r="3" stroke="white" stroke-width="1.2" fill="rgba(255,255,255,0.06)"/>
+                <path d="M4 20c1.333-3 4.333-5 8-5s6.667 2 8 5" stroke="white" stroke-width="1.2" fill="none"/>
+            </svg>
+        </div>
+        <div class="panel-text">
+            <h3>Prestaciones</h3>
+            <p>Listado de prestaciones disponibles</p>
+        </div>
+    </a>
+</div>

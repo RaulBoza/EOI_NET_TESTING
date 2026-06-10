@@ -1,0 +1,33 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using GestorPrestaciones;
+
+namespace GestorPrestacionesWeb.Pages.Clientes
+{
+    public class CreateModel : PageModel
+    {
+        private readonly ServiciosCliente _servicios;
+
+        [BindProperty]
+        public Cliente Cliente { get; set; }
+
+        public CreateModel(ServiciosCliente servicios)
+        {
+            _servicios = servicios;
+        }
+
+        public void OnGet()
+        {
+            Cliente = new Cliente();
+        }
+
+        public async Task<IActionResult> OnPost()
+        {
+            if (!ModelState.IsValid)
+                return Page();
+
+            await _servicios.CrearCliente(Cliente);
+            return RedirectToPage("Index");
+        }
+    }
+}

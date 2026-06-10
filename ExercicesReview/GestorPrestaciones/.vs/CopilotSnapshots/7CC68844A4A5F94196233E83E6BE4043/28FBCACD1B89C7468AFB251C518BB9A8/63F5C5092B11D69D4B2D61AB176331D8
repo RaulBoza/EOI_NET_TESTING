@@ -1,0 +1,4 @@
+﻿# Copilot Instructions
+
+## Directrices del proyecto
+- No crear archivos ni cambios en el proyecto 'GestorPrestaciones'; al editar la interfaz web, modificar únicamente el proyecto 'GestorPrestacionesWeb' y sus archivos (cshtml, css, PageModels, etc.).

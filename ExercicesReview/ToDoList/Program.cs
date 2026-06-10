@@ -9,9 +9,12 @@ namespace ToDoList
         
         static void Main(string[] args)
         {
+            //string RelativeRroute = @"..\..\..\ProgramFolder\example.txt";
             List<Task> tasks = new List<Task>();
             Task exampleTask = new Task(0, "Example Task", "This is an example task.", DateOnly.FromDateTime(DateTime.Now), false, Priority.Medium);
             tasks.Add(exampleTask);
+
+            //Console.WriteLine(File.ReadAllText(RelativeRroute));
 
             UserInterface ui = new UserInterface();
             ui.ShowMenu();

@@ -1,0 +1,173 @@
+@page
+@model GestorPrestacionesWeb.Pages.Clientes.CreateModel
+@using GestorPrestaciones
+@{
+	ViewData["Title"] = "Crear Cliente";
+}
+
+<div class="py-4">
+	<h1 class="h3 mb-3 text-dark">Crear Cliente</h1>
+
+	<form method="post">
+		<div class="mb-3">
+			<label asp-for="Cliente.Nombre" class="form-label"></label>
+			<input asp-for="Cliente.Nombre" class="form-control" />
+			<span asp-validation-for="Cliente.Nombre" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Cliente.Apellidos" class="form-label"></label>
+			<input asp-for="Cliente.Apellidos" class="form-control" />
+			<span asp-validation-for="Cliente.Apellidos" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Cliente.DNI" class="form-label"></label>
+			<input asp-for="Cliente.DNI" class="form-control" />
+			<span asp-validation-for="Cliente.DNI" class="text-danger"></span>
+		</div>
+	<div class="mb-3">
+			<label asp-for="Cliente.FechaNacimiento" class="form-label"></label>
+			<input asp-for="Cliente.FechaNacimiento" class="form-control" type="date"/>
+		<span asp-validation-for="Cliente.FechaNacimiento" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label for="Cliente_Sexo" class="form-label">Sexo</label>
+		<select asp-for="Cliente.Sexo" class="form-select" id="Cliente_Sexo">
+			<option value="Masculino">Masculino</option>
+			<option value="Femenino">Femenino</option>
+		</select>
+		<span asp-validation-for="Cliente.Sexo" class="text-danger"></span>
+	</div>
+
+		<!-- Nuevos atributos -->
+		<div class="mb-3">
+			<label asp-for="Cliente.BaseReguladora" class="form-label">Base Reguladora</label>
+			<input asp-for="Cliente.BaseReguladora" class="form-control" type="number" />
+			<span asp-validation-for="Cliente.BaseReguladora" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Cliente.GradoDiscapacidad" class="form-label">Grado Discapacidad</label>
+			<input asp-for="Cliente.GradoDiscapacidad" class="form-control" type="number" />
+			<span asp-validation-for="Cliente.GradoDiscapacidad" class="text-danger"></span>
+		</div>
+
+		<!-- Trabajos dinámicos -->
+		<div class="mb-3">
+			<label class="form-label">Trabajos</label>
+			<div id="trabajos-list"></div>
+			<button type="button" class="btn btn-sm btn-outline-primary mt-2" onclick="addTrabajo()">+ Añadir trabajo</button>
+		</div>
+
+		<!-- Bajas dinámicas -->
+		<div class="mb-3">
+			<label class="form-label">Bajas laborales</label>
+			<div id="bajas-list"></div>
+			<button type="button" class="btn btn-sm btn-outline-primary mt-2" onclick="addBaja()">+ Añadir baja</button>
+		</div>
+
+		<button type="submit" class="btn btn-primary">Crear</button>
+		<a asp-page="Index" class="btn btn-link">Volver</a>
+	</form>
+</div>
+
+<!-- Templates -->
+<template id="trabajo-template">
+	<div class="card card-body mb-2 trabajo-item">
+		<div class="row g-2 align-items-end">
+			<div class="col-md-4">
+				<label class="form-label">Trabajo existente</label>
+				<select class="form-select trabajo-select">
+					<option value="0">-- Nuevo trabajo --</option>
+					@foreach (var t in Model.TrabajoOptions ?? new List<Trabajo>())
+					{
+						<option value="@t.Id">@t.Nombre</option>
+					}
+				</select>
+			</div>
+			<div class="col-md-3 new-trabajo-fields" style="display:none;">
+				<label class="form-label">Nombre (nuevo)</label>
+				<input class="form-control trabajo-new-nombre" />
+			</div>
+			<div class="col-md-2 new-trabajo-fields" style="display:none;">
+				<label class="form-label">Es de riesgo</label>
+				<input type="checkbox" class="form-check-input trabajo-new-risk" />
+			</div>
+			<div class="col-md-3">
+				<label class="form-label">Inicio</label>
+				<input type="date" class="form-control trabajo-inicio" />
+			</div>
+			<div class="col-md-3">
+				<label class="form-label">Fin (opcional)</label>
+				<input type="date" class="form-control trabajo-fin" />
+			</div>
+			<div class="col-md-12">
+				<button type="button" class="btn btn-sm btn-danger mt-2" onclick="this.closest('.trabajo-item').remove()">Eliminar</button>
+			</div>
+		</div>
+	</div>
+</template>
+
+<template id="baja-template">
+	<div class="card card-body mb-2 baja-item">
+		<div class="row g-2 align-items-end">
+			<div class="col-md-4">
+				<label class="form-label">Inicio</label>
+				<input type="date" class="form-control baja-inicio" />
+			</div>
+			<div class="col-md-4">
+				<label class="form-label">Fin (opcional)</label>
+				<input type="date" class="form-control baja-fin" />
+			</div>
+			<div class="col-md-12">
+				<button type="button" class="btn btn-sm btn-danger mt-2" onclick="this.closest('.baja-item').remove()">Eliminar</button>
+			</div>
+		</div>
+	</div>
+</template>
+
+<script>
+	let trabajoIndex = 0;
+	let bajaIndex = 0;
+
+	function addTrabajo() {
+		const tpl = document.getElementById('trabajo-template');
+		const clone = tpl.content.cloneNode(true);
+		const container = document.createElement('div');
+		container.appendChild(clone);
+		const item = container.firstElementChild;
+
+		// set names for inputs so server can read them
+		const sel = item.querySelector('.trabajo-select');
+		const nombre = item.querySelector('.trabajo-new-nombre');
+		const risk = item.querySelector('.trabajo-new-risk');
+		const inicio = item.querySelector('.trabajo-inicio');
+		const fin = item.querySelector('.trabajo-fin');
+
+		sel.name = `trabajo_select_${trabajoIndex}`;
+		nombre.name = `trabajo_new_nombre_${trabajoIndex}`;
+		risk.name = `trabajo_new_risk_${trabajoIndex}`;
+		inicio.name = `trabajo_inicio_${trabajoIndex}`;
+		fin.name = `trabajo_fin_${trabajoIndex}`;
+
+		sel.addEventListener('change', function () {
+			const newFields = item.querySelectorAll('.new-trabajo-fields');
+			if (sel.value === '0') newFields.forEach(f => f.style.display = 'block'); else newFields.forEach(f => f.style.display = 'none');
+		});
+
+		document.getElementById('trabajos-list').appendChild(item);
+		trabajoIndex++;
+	}
+
+	function addBaja() {
+		const tpl = document.getElementById('baja-template');
+		const clone = tpl.content.cloneNode(true);
+		const container = document.createElement('div');
+		container.appendChild(clone);
+		const item = container.firstElementChild;
+		const inicio = item.querySelector('.baja-inicio');
+		const fin = item.querySelector('.baja-fin');
+		inicio.name = `baja_inicio_${bajaIndex}`;
+		fin.name = `baja_fin_${bajaIndex}`;
+		document.getElementById('bajas-list').appendChild(item);
+		bajaIndex++;
+	}
+</script>

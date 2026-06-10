@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\DemoQA.Selenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D825B8D-7C3E-6E45-EAE1-FD6C9BDF114F}|DemoQA.Selenium\\DemoQA.Selenium.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\demoqa.selenium\\demoqa.selenium\\support\\seleniumexternotestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D825B8D-7C3E-6E45-EAE1-FD6C9BDF114F}|DemoQA.Selenium\\DemoQA.Selenium.csproj|solutionrelative:demoqa.selenium\\support\\seleniumexternotestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D825B8D-7C3E-6E45-EAE1-FD6C9BDF114F}|DemoQA.Selenium\\DemoQA.Selenium.csproj|c:\\users\\rakim\\documents\\github\\eoi_net_testing\\exercicesreview\\demoqa.selenium\\demoqa.selenium\\test\\demoqawebtablestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D825B8D-7C3E-6E45-EAE1-FD6C9BDF114F}|DemoQA.Selenium\\DemoQA.Selenium.csproj|solutionrelative:demoqa.selenium\\test\\demoqawebtablestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleniumExternoTestBase.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\DemoQA.Selenium\\DemoQA.Selenium\\Support\\SeleniumExternoTestBase.cs",
+              "RelativeDocumentMoniker": "DemoQA.Selenium\\Support\\SeleniumExternoTestBase.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\DemoQA.Selenium\\DemoQA.Selenium\\Support\\SeleniumExternoTestBase.cs",
+              "RelativeToolTip": "DemoQA.Selenium\\Support\\SeleniumExternoTestBase.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwGIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:40:58.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoQaWebTablesTests.cs",
+              "DocumentMoniker": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\DemoQA.Selenium\\DemoQA.Selenium\\Test\\DemoQaWebTablesTests.cs",
+              "RelativeDocumentMoniker": "DemoQA.Selenium\\Test\\DemoQaWebTablesTests.cs",
+              "ToolTip": "C:\\Users\\rakim\\Documents\\GitHub\\EOI_NET_TESTING\\ExercicesReview\\DemoQA.Selenium\\DemoQA.Selenium\\Test\\DemoQaWebTablesTests.cs",
+              "RelativeToolTip": "DemoQA.Selenium\\Test\\DemoQaWebTablesTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T18:44:08.661Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:519925012:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:324660892:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

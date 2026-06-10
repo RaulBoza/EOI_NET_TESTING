@@ -1,0 +1,15 @@
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\bin\Debug\net10.0\SteamAPITest.exe
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\bin\Debug\net10.0\SteamAPITest.deps.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\bin\Debug\net10.0\SteamAPITest.runtimeconfig.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\bin\Debug\net10.0\SteamAPITest.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\bin\Debug\net10.0\SteamAPITest.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.AssemblyInfoInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.AssemblyInfo.cs
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.csproj.CoreCompileInputs.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.sourcelink.json
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\refint\SteamAPITest.dll
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.pdb
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\SteamAPITest.genruntimeconfig.cache
+C:\Users\rakim\Documents\GitHub\EOI_NET_TESTING\ExercicesReview\SteamAPITest\obj\Debug\net10.0\ref\SteamAPITest.dll
